@@ -236,6 +236,8 @@ Para la primera sesión únicamente necesitas:
 
 **Empezaremos por MAC, continuaremos con DMC y terminaremos la primera parte práctica con GPC.**
 
+---
+
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
