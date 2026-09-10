@@ -1,4 +1,14 @@
-# Fundamentos del Control Predictivo basado en Modelo (MPC) y su uso en la industria
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GICI-UPV-EHU/Imagenes_GICI/main/logos/Delfin03-Naranja-T6.png"
+       alt="GICI"
+       width="180">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/GICI-UPV-EHU/Imagenes_GICI/main/logos/EHU_logotipo_positiboa_ALTUA.png"
+       alt="UPV/EHU"
+       width="150">
+</p>
+
+<h1 align="center">Fundamentos del Control Predictivo basado en Modelo (MPC) y su uso en la industria</h1>
 
 Material del curso formativo dedicado a los **fundamentos del Model Predictive Control (MPC)**, con especial énfasis en su interpretación práctica, su relación con las primeras formulaciones industriales y su implementación mediante ejemplos ejecutables.
 
