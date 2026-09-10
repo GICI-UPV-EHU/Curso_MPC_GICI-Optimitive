@@ -8,7 +8,7 @@
        width="150">
 </p>
 
-<h1 align="center">Fundamentos del Control Predictivo basado en Modelo (MPC) y su uso en la industria</h1>
+<h1 align="center">Fundamentos del Control Predictivo basado en Modelo y su uso en la industria</h1>
 
 Material del curso formativo dedicado a los **fundamentos del Model Predictive Control (MPC)**, con especial énfasis en su interpretación práctica, su relación con las primeras formulaciones industriales y su implementación mediante ejemplos ejecutables.
 
